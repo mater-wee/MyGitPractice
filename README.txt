@@ -1,1 +1,1 @@
-Practice Repo for Programming Tools & Techniques.
+Practice Repository for Programming Tools & Techniques.
